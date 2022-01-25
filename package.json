@@ -1,6 +1,6 @@
 {
   "name": "sequelize-repository-pattern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package providing the use of the Repository Pattern with sequelize databases.",
   "main": "lib/index.js",
   "scripts": {
